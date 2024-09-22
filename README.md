@@ -17,23 +17,27 @@ Welcome to my page, I'm interested in the following topics: Deep Learning in NLP
 **Languages and Tools:**  
 
 <a href="https://www.python.org/" title="Python">
-  <img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px" />
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="36px" height="36px" />
 </a>
 
 <a href="https://www.pytorch.org/" title="Pytorch">
-  <img src="" alt="Pytorch" width="21px" height="21px" />
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="Pytorch" width="36px" height="36px" />
 </a>
 
 <a href="https://numpy.org/" title="NumPy">
-  <img src="https://github.com/get-icon/geticon/raw/master/icons/numpy-icon.svg" alt="NumPy" width="21px" height="21px" />
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/numpy-icon.svg" alt="NumPy" width="36px" height="36px" />
 </a>
 
-<a href="https://pandas.pydata.org/" title="pandas">
-  <img src="https://github.com/get-icon/geticon/raw/master/icons/pandas-icon.svg" alt="pandas" width="21px" height="21px" />
+<a href="https://scikit-learn.org/" title="Scikit-learn">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="Scikit-learn" width="36px" height="36px" />
 </a>
 
-<a href="https://www.docker.com/" title="docker">
-  <img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="docker" width="21px" height="21px" />
+<a href="https://ubuntu.com/" title="Ubuntu">
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg" alt="Ubuntu" width="36px" height="36px" />
+</a>
+
+<a href="https://www.docker.com/" title="Docker">
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="Docker" width="36px" height="36px" />
 </a>
 <br>
 <br/>
