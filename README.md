@@ -2,11 +2,11 @@
 
 
 <a href="https://www.linkedin.com/in/mai-xuan-thuan/">
-  <img align="left" alt="MXT | Linkedin" width="21px" src="https://raw.githubusercontent.com/linnovate/root-me/refs/heads/master/src/images/icons/linkedin.ico" />
+  <img align="left" alt="MXT | Linkedin" width="36px" src="https://raw.githubusercontent.com/linnovate/root-me/refs/heads/master/src/images/icons/linkedin.ico" />
 </a>
 
 <a href="https://x.com/MaiXuanThuan1">
-  <img align="left" alt="MXT| Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  <img align="left" alt="MXT| Twitter" width="36px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 
 <br />
