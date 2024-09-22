@@ -15,11 +15,6 @@
 
 Welcome to my page, I'm interested in the following topics: Deep Learning in NLP and Computer Vision.
 
-- 🔭 I’m currently working on [renderless-components](https://github.com/timelessco/renderless-components)
-- 🌱 I’m currently learning Typescript
-- 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
-
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -58,4 +53,4 @@ Welcome to my page, I'm interested in the following topics: Deep Learning in NLP
 <br />
 <br />
 
-🌱 Thank you !
+<h1> 🌱 Thank you ! <h1/>
