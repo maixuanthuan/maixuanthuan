@@ -20,6 +20,10 @@ Welcome to my page, I'm interested in the following topics: Deep Learning in NLP
   <img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px" />
 </a>
 
+<a href="https://www.pytorch.org/" title="Pytorch">
+  <img src="" alt="Pytorch" width="21px" height="21px" />
+</a>
+
 <a href="https://numpy.org/" title="NumPy">
   <img src="https://github.com/get-icon/geticon/raw/master/icons/numpy-icon.svg" alt="NumPy" width="21px" height="21px" />
 </a>
@@ -31,7 +35,6 @@ Welcome to my page, I'm interested in the following topics: Deep Learning in NLP
 <a href="https://www.docker.com/" title="docker">
   <img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="docker" width="21px" height="21px" />
 </a>
-
 <br>
 <br/>
 
