@@ -13,7 +13,7 @@
 <br />
 <br />
 
-Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India.
+Welcome to my page, I'm interested in the following topics: Deep Learning in NLP and Computer Vision.
 
 - 🔭 I’m currently working on [renderless-components](https://github.com/timelessco/renderless-components)
 - 🌱 I’m currently learning Typescript
@@ -53,9 +53,9 @@ Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=material-palenight" />
-</a>
+</a> 
 
-----
-Credit: [anuraghazra](https://github.com/anuraghazra)
+<br />
+<br />
 
-Last Edited on: 19/11/2020
+🌱 Thank you !
