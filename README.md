@@ -1,6 +1,8 @@
 ### Hi there, I'm Mai Xuan Thuan 👋
 
-
+Welcome to my page, I'm interested in the following topics: Deep Learning in NLP and Computer Vision.
+<br />
+## 📫 How to reach me: 
 <a href="https://www.linkedin.com/in/mai-xuan-thuan/">
   <img align="left" alt="MXT | Linkedin" width="36px" src="https://raw.githubusercontent.com/linnovate/root-me/refs/heads/master/src/images/icons/linkedin.ico" />
 </a>
@@ -11,8 +13,6 @@
 
 <br />
 <br />
-
-Welcome to my page, I'm interested in the following topics: Deep Learning in NLP and Computer Vision.
 
 **Languages and Tools:**  
 
