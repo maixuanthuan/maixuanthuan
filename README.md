@@ -47,7 +47,7 @@ Welcome to my page, I'm interested in the following topics: Deep Learning in NLP
 
 <a href="https://github.com/maixuanthuan/Tennis_Analyst">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=maixuanthuan&repo=Tennis_Analyst&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=maixuanthuan&repo=Tennis_Analyst&theme=react" />
 </a>    
 <a href="https://github.com/maixuanthuan/Football_Detector">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
