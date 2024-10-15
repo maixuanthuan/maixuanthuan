@@ -45,9 +45,9 @@ Welcome to my page, I'm interested in the following topics: Deep Learning in NLP
 
 <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-<a href="https://github.com/maixuanthuan/Tennis_by_TrackNet">
+<a href="https://github.com/maixuanthuan/tennis_by_TrackNet">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=maixuanthuan&repo=Tennis_by_TrackNet&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=maixuanthuan&repo=tennis_by_TrackNet&theme=material-palenight" />
 </a>    
 <a href="https://github.com/maixuanthuan/Football_Detector">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
