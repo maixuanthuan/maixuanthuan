@@ -55,9 +55,9 @@ Welcome to my page, I'm interested in the following topics: Deep Learning in NLP
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=maixuanthuan&repo=Football_Detector&theme=material-palenight" />
 </a> 
 
-<a href="https://github.com/maixuanthuan/Football_Detector">
+<a href="https://github.com/maixuanthuan/Animal_Prediction">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=maixuanthuan&repo=Football_Detector&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=maixuanthuan&repo=Animal_Prediction&theme=blueberry" />
 </a> 
 <br />
 <br />
