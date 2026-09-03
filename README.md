@@ -29,7 +29,7 @@ Welcome to my page, I'm interested in the following topics: Deep Learning in NLP
 </a>
 
 <a href="https://scikit-learn.org/" title="Scikit-learn">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" alt="Scikit-learn" width="36px" height="36px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="36px" height="36px" />
 </a>
 
 <a href="https://ubuntu.com/" title="Ubuntu">
