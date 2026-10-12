@@ -67,31 +67,6 @@ Welcome to my page, I'm interested in the following topics: Deep Learning in NLP
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=maixuanthuan&repo=RAG_LLM&theme=react" />
 </a>
 
-<!-- NEW PROJECT 5 -->
-<a href="https://github.com/maixuanthuan/face-core">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=maixuanthuan&repo=face-core&theme=material-palenight" />
-</a>
-
-<!-- NEW PROJECT 6 -->
-<a href="https://github.com/maixuanthuan/YOUR_PROJECT_6">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=maixuanthuan&repo=YOUR_PROJECT_6&theme=blueberry" />
-</a>
-
-<!-- NEW PROJECT 7 -->
-<a href="https://github.com/maixuanthuan/YOUR_PROJECT_7">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=maixuanthuan&repo=YOUR_PROJECT_7&theme=react" />
-</a>
-
-<!-- NEW PROJECT 8 -->
-<a href="https://github.com/maixuanthuan/YOUR_PROJECT_8">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=maixuanthuan&repo=YOUR_PROJECT_8&theme=material-palenight" />
-</a>
-
-<!-- NEW PROJECT 9 -->
-<a href="https://github.com/maixuanthuan/YOUR_PROJECT_9">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=maixuanthuan&repo=YOUR_PROJECT_9&theme=blueberry" />
-</a>
-
 <br />
 <br />
 
