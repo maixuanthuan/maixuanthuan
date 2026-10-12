@@ -68,8 +68,8 @@ Welcome to my page, I'm interested in the following topics: Deep Learning in NLP
 </a>
 
 <!-- NEW PROJECT 5 -->
-<a href="https://github.com/maixuanthuan/YOUR_PROJECT_5">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=maixuanthuan&repo=YOUR_PROJECT_5&theme=material-palenight" />
+<a href="https://github.com/maixuanthuan/face-core">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=maixuanthuan&repo=face-core&theme=material-palenight" />
 </a>
 
 <!-- NEW PROJECT 6 -->
