@@ -64,7 +64,7 @@ Welcome to my page, I'm interested in the following topics: Deep Learning in NLP
 
 <!-- NEW PROJECT 4 -->
 <a href="https://github.com/maixuanthuan/RAG_LLM">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=maixuanthuan&repo=YOUR_PROJECT_4&theme=react" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=maixuanthuan&repo=RAG_LLM&theme=react" />
 </a>
 
 <!-- NEW PROJECT 5 -->
