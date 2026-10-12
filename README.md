@@ -1,91 +1,98 @@
-# Hi there, I'm Mai Xuan Thuan 👋
+### Hi there, I'm Mai Xuan Thuan 👋
 
-AI & Computer Vision Engineer | Deep Learning | Edge AI
+Welcome to my page, I'm interested in the following topics: Deep Learning in NLP and Computer Vision.
+<br />
 
-Welcome to my GitHub profile! I'm interested in building AI solutions for real-world applications, especially in Computer Vision, Deep Learning, and Edge AI.
+## 📫 How to reach me:
 
-## 🚀 Featured Projects
+<a href="https://www.linkedin.com/in/mai-xuan-thuan/">
+  <img align="left" alt="MXT | Linkedin" width="36px" src="https://raw.githubusercontent.com/linnovate/root-me/refs/heads/master/src/images/icons/linkedin.ico" />
+</a>
 
-### 🤖 AI & Computer Vision
+<a href="https://x.com/MaiXuanThuan1">
+  <img align="left" alt="MXT| Twitter" width="36px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
 
-<!-- PROJECT 1 -->
+<br />
+<br />
+
+**Languages and Tools:**
+
+<a href="https://www.python.org/" title="Python">
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="36px" height="36px" />
+</a>
+
+<a href="https://www.pytorch.org/" title="Pytorch">
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="Pytorch" width="36px" height="36px" />
+</a>
+
+<a href="https://numpy.org/" title="NumPy">
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/numpy-icon.svg" alt="NumPy" width="36px" height="36px" />
+</a>
+
+<a href="https://scikit-learn.org/" title="Scikit-learn">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="36px" height="36px" />
+</a>
+
+<a href="https://ubuntu.com/" title="Ubuntu">
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu-bash-official.svg" alt="Ubuntu" width="36px" height="36px" />
+</a>
+
+<a href="https://www.docker.com/" title="Docker">
+  <img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="Docker" width="36px" height="36px" />
+</a>
+
+<br>
+<br/>
+
+<!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` -->
+
 <a href="https://github.com/maixuanthuan/Tennis_Analyst">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maixuanthuan&repo=Tennis_Analyst&theme=react" />
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=maixuanthuan&repo=Tennis_Analyst&theme=react" />
 </a>
 
-<!-- PROJECT 2 -->
 <a href="https://github.com/maixuanthuan/Football_Detector">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maixuanthuan&repo=Football_Detector&theme=react" />
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=maixuanthuan&repo=Football_Detector&theme=material-palenight" />
 </a>
 
-<!-- PROJECT 3 -->
 <a href="https://github.com/maixuanthuan/Animal_Prediction">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maixuanthuan&repo=Animal_Prediction&theme=react" />
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=maixuanthuan&repo=Animal_Prediction&theme=blueberry" />
 </a>
 
-<!-- ========================================= -->
-<!-- COPY THIS TEMPLATE TO ADD A NEW PROJECT  -->
-<!-- Replace YOUR_REPO with your repository name -->
-<!-- ========================================= -->
-
-<!-- PROJECT 4 -->
-<a href="https://github.com/maixuanthuan/YOUR_REPO">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maixuanthuan&repo=YOUR_REPO&theme=react" />
+<!-- NEW PROJECT 4 -->
+<a href="https://github.com/maixuanthuan/YOUR_PROJECT_4">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=maixuanthuan&repo=YOUR_PROJECT_4&theme=react" />
 </a>
 
-<!-- PROJECT 5 -->
-<a href="https://github.com/maixuanthuan/YOUR_REPO">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maixuanthuan&repo=YOUR_REPO&theme=tokyonight" />
+<!-- NEW PROJECT 5 -->
+<a href="https://github.com/maixuanthuan/YOUR_PROJECT_5">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=maixuanthuan&repo=YOUR_PROJECT_5&theme=material-palenight" />
 </a>
 
-<!-- PROJECT 6 -->
-<a href="https://github.com/maixuanthuan/YOUR_REPO">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=maixuanthuan&repo=YOUR_REPO&theme=blueberry" />
+<!-- NEW PROJECT 6 -->
+<a href="https://github.com/maixuanthuan/YOUR_PROJECT_6">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=maixuanthuan&repo=YOUR_PROJECT_6&theme=blueberry" />
 </a>
 
-<br/><br/>
+<!-- NEW PROJECT 7 -->
+<a href="https://github.com/maixuanthuan/YOUR_PROJECT_7">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=maixuanthuan&repo=YOUR_PROJECT_7&theme=react" />
+</a>
 
-## 🛠️ Languages and Tools
+<!-- NEW PROJECT 8 -->
+<a href="https://github.com/maixuanthuan/YOUR_PROJECT_8">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=maixuanthuan&repo=YOUR_PROJECT_8&theme=material-palenight" />
+</a>
 
-<p align="left">
-  <a href="https://www.python.org/" title="Python">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  </a>
-  <a href="https://pytorch.org/" title="PyTorch">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch"/>
-  </a>
-  <a href="https://opencv.org/" title="OpenCV">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40" alt="OpenCV"/>
-  </a>
-  <a href="https://www.docker.com/" title="Docker">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
-  </a>
-  <a href="https://ubuntu.com/" title="Ubuntu">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" height="40" alt="Ubuntu"/>
-  </a>
-  <a href="https://git-scm.com/" title="Git">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  </a>
-</p>
+<!-- NEW PROJECT 9 -->
+<a href="https://github.com/maixuanthuan/YOUR_PROJECT_9">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=maixuanthuan&repo=YOUR_PROJECT_9&theme=blueberry" />
+</a>
 
-## 📊 GitHub Statistics
+<br />
+<br />
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=maixuanthuan&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maixuanthuan&layout=compact&theme=react&hide_border=true" alt="Top Languages"/>
-</p>
-
-## 📫 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/mai-xuan-thuan/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="36" height="36" alt="LinkedIn"/>
-  </a>
-  <a href="https://x.com/MaiXuanThuan1">
-    <img src="https://cdn.simpleicons.org/x/ffffff" width="36" height="36" alt="X"/>
-  </a>
-</p>
-
----
-
-⭐ Thanks for visiting my profile!
+<h1> 🌱 Thank you ! <h1/>
