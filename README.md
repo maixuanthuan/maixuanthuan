@@ -35,7 +35,7 @@ Welcome to my page, I'm interested in the following topics: Deep Learning in NLP
 </a>
 
 <a href="https://ubuntu.com/" title="Ubuntu">
-  <img src="https://assets.ubuntu.com/v1/ff6a9a38-ubuntu-logo-2022.svg" alt="Ubuntu" width="80px" height="80px" />
+  <img src="https://assets.ubuntu.com/v1/ff6a9a38-ubuntu-logo-2022.svg" alt="Ubuntu" width="100px" height="100px" />
 </a>
 
 <a href="https://www.docker.com/" title="Docker">
