@@ -66,6 +66,14 @@ Welcome to my page, I'm interested in the following topics: Deep Learning in NLP
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=maixuanthuan&repo=RAG_LLM&theme=react" />
 </a>
 
+<a href="https://github.com/maixuanthuan/dubber_vid">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=maixuanthuan&repo=Dubber_Video&theme=react" />
+</a>
+
+<a href="https://github.com/maixuanthuan/camhub_ffmpeg_probe">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=maixuanthuan&repo=Camhub_ffmpeg&theme=react" />
+</a>
+
 <br />
 <br />
 
